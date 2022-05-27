@@ -8,6 +8,7 @@ Awesome lists about game development API`s
   - [Steam API](https://partner.steamgames.com/) [Official]
   - [Nintendo Switch Rest API](https://github.com/ZekeSnider/NintendoSwitchRESTAPI) [Not Official]
   - [Xbox Services API](https://docs.microsoft.com/en-us/gaming/gdk/_content/gc/live/get-started/live-gs-xbl-apis) [Official]
+  - [Google Play Games](https://developers.google.com/games/services/web/api) [Official]
 
 - Game Information Databases
   - [IGDB](https://www.igdb.com/api) 
@@ -18,3 +19,6 @@ Awesome lists about game development API`s
 
 - Game Company
   - [Riot](https://developer.riotgames.com/) 
+
+- Free-To-Play Games
+  - [FreeToPlay](https://www.freetogame.com/api-doc)   
