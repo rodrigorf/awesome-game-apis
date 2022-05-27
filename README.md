@@ -20,5 +20,6 @@ Awesome lists about game development API`s
 - Game Company
   - [Riot](https://developer.riotgames.com/) 
 
-- Free-To-Play Games
-  - [FreeToPlay](https://www.freetogame.com/api-doc)   
+- [FreeToPlay](https://www.freetogame.com/api-doc)   
+
+- [MMO Games](https://www.mmobomb.com/api)
